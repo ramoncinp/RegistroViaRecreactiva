@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContadorViaRecreactiva</string>
+    <string name="ciclistas">Ciclistas</string>
+    <string name="caminante_corredor">Caminante/corredor</string>
+    <string name="ruedas_manual">Ruedas manual</string>
+    <string name="electrico">Eléctrico</string>
+    <string name="reiniciar_contadores">Reiniciar contadores</string>
+</resources>
